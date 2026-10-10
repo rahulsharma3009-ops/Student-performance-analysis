@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Python,AI,Attendance,Total,Average,Grade,Result
+101,Aarav Sharma,BCA,85,90,88,92,263,87.67,A,Pass
+102,Diya Verma,BCA,78,82,80,87,240,80.0,A,Pass
+103,Rohan Singh,BCA,56,62,59,76,177,59.0,D,Pass
+104,Ananya Gupta,BCA,92,95,94,98,281,93.67,A+,Pass
+105,Kabir Mishra,BCA,45,51,48,68,144,48.0,F,Pass
+106,Meera Joshi,BCA,88,84,91,95,263,87.67,A,Pass
+107,Arjun Yadav,BCA,67,70,72,81,209,69.67,C,Pass
+108,Sara Khan,BCA,73,76,79,89,228,76.0,B,Pass
+109,Vihaan Patel,BCA,39,42,45,61,126,42.0,F,Fail
+110,Ishita Roy,BCA,81,86,83,90,250,83.33,A,Pass
+111,Aditya Kumar,BCA,60,58,64,74,182,60.67,C,Pass
+112,Myra Jain,BCA,95,91,97,99,283,94.33,A+,Pass
+113,Dev Malhotra,BCA,52,49,55,70,156,52.0,D,Pass
+114,Kiara Das,BCA,77,80,75,85,232,77.33,B,Pass
+115,Reyansh Tiwari,BCA,69,65,71,79,205,68.33,C,Pass
+116,Pari Saxena,BCA,84,89,86,93,259,86.33,A,Pass
+117,Krish Agarwal,BCA,48,55,50,72,153,51.0,D,Pass
+118,Navya Kapoor,BCA,90,87,92,96,269,89.67,A,Pass
+119,Manav Bansal,BCA,63,68,66,83,197,65.67,C,Pass
+120,Tara Sinha,BCA,74,72,78,88,224,74.67,B,Pass
